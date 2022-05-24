@@ -1,0 +1,40 @@
+#EightBall {
+    border-radius: 100rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 25%;
+    left: 30%;
+    padding: 6rem 2rem;
+    min-width: 250px;
+    max-width: 250px;
+    min-height: 8rem;
+    max-height: 8rem;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
+
+.green {
+    background-color: green;
+    color: white;
+}
+
+.goldenrod {
+    background-color: goldenrod;
+    color: white;
+}
+
+.red {
+    background-color: red;
+    color: white;
+}
+
+.rest-btn {
+    position: absolute;
+    top: 62%;
+    left: 43.5%;
+}
